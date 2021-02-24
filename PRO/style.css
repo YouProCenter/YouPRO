@@ -1,0 +1,765 @@
+#container
+{
+	position: absolute;
+	width: 100%;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	background: #F3FCFF;
+}
+#header {
+
+     width: 100%;
+     height: 110px;
+}
+.logo {
+    width: 170x;
+	height: 80px;
+    float: left;
+    
+}
+#log{
+     float: left;
+     position: absolute;
+     margin-top: 16px;
+     margin-left: 40px;
+     width: 8%;
+     height: 135px;
+     }
+	 
+.top-menu {
+    width: 48%;
+    height: 80px;
+    margin-right: 140px;
+    float: right;
+}
+.top-menu table {
+    float: right;
+    text-align: center;
+}
+.top-menu table tr td a {
+    display: block;
+    width: 200px; 
+    text-decoration: none;
+    font-family: PT Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: #00456F;
+    padding-top: 40px;
+    cursor: pointer;
+    border: 0 px;
+}
+.first
+{
+	width: 100%;
+	height: 1000px;
+	left: 0px;
+	top: 0px;
+	
+}
+.back-ground
+{
+
+	width: 100%;
+	height: 1000px;
+    float: left;
+}
+.main-txt
+{
+
+	width: 52%;
+	height: 1000px;
+    float: right;
+}
+.main-txt h2
+{
+
+	position: absolute;
+	width: 40%;
+	height: 58px;
+	left: 57%;
+	top: 238px;
+
+	font-family: PT Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	line-height: 58px;
+	text-align: center;
+
+	color: #0C0056;
+}
+.main-txt h1
+{
+position: absolute;
+width: 40%;
+height: 129px;
+left: 57%;
+top: 315px;
+
+font-family: PT Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 100px;
+line-height: 129px;
+text-align: center;
+
+color: #FF6B00;
+}
+.main-txt h3
+{
+position: absolute;
+width: 40%;
+height: 39px;
+left: 57%;
+top: 472px;
+
+font-family: PT Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 39px;
+/* identical to box height */
+
+text-align: center;
+
+color: #0C0056;
+}
+.main-txt p
+{
+position: absolute;
+width: 28%;
+height: 117px;
+left: 63%;
+top: 590px;
+
+font-family: PT Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 27px;
+line-height: 145.1%;
+/* or 39px */
+
+text-align: center;
+
+color: #2E2E2E;
+}
+.main-txt h6
+{
+position: absolute;
+width: 40%;
+height: 30px;
+left: 58%;
+top: 813px;
+
+font-family: PT Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 150.6%;
+/* or 30px */
+
+text-align: center;
+
+color: rgba(255, 107, 0, 0.69);
+}
+.button
+{
+position: absolute;
+width: 40%;
+height: 55px;
+left: 35%;
+top: 320px;
+text-decoration: none;
+background: #173AB6;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+
+font-family: PT Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 31px;
+/* identical to box height */
+ display: flex;
+  align-items: center;
+  justify-content: center;
+
+color: #FFFFFF;
+}
+
+#ways
+{
+	position: absolute;
+	width: 100%;
+	height: 1080px;
+	left: 0px;
+	top: 1100px;
+}
+#ways h1
+{
+
+left: 799px;
+top: 1280px;
+text-align: center;
+font-family: PT Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 55px;
+line-height: 71px;
+
+color: #00456F;
+}
+
+ .it
+{	
+
+text-align: center;
+width: 260px;
+height: 260px;
+
+background-image: url(it.png);
+border-radius: 20px;
+
+}
+ .smm
+{	
+
+text-align: center;
+width: 260px;
+height: 260px;
+
+background-image: url(smm.png);
+border-radius: 20px;
+}
+.art
+{
+
+text-align: center;	
+width: 260px;
+height: 260px;
+
+background-image: url(art.png);
+border-radius: 20px;
+}
+.usl
+{
+	
+text-align: center;
+width: 260px;
+height: 260px;
+
+background-image: url(usl.png);
+border-radius: 20px;
+}
+.med
+{	
+
+text-align: center;
+width: 260px;
+height: 260px;
+
+background-image: url(med.png);
+border-radius: 20px;
+}
+.soc
+{
+ 
+text-align: center;
+width: 260px;
+height: 260px;
+
+background-image: url(soc.png);
+border-radius: 20px;
+
+}
+.it a
+{
+
+bottom: 570;
+left: 510;
+font-family: PT Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 23px;
+text-decoration-line: underline;
+
+color: #FF6B00;
+
+}
+.smm a
+{
+
+bottom: 570;
+left: 920;
+font-family: PT Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 23px;
+text-decoration-line: underline;
+
+color: #FF6B00;
+}
+.art a
+{
+
+bottom: 570;
+left: 1330;
+font-family: PT Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 23px;
+text-decoration-line: underline;
+
+color: #FF6B00;
+}
+.usl a
+{
+
+bottom: 160;
+left: 510;
+font-family: PT Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 23px;
+text-decoration-line: underline;
+
+color: #FF6B00;
+}
+.med a
+{
+
+bottom: 160;
+left: 920;
+font-family: PT Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 23px;
+text-decoration-line: underline;
+
+color: #FF6B00;
+}
+.soc a
+{
+
+bottom: 160;
+left: 1330;
+font-family: PT Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 23px;
+text-decoration-line: underline;
+
+color: #FF6B00;
+}
+
+.for
+{
+position:absolute;
+width: 100%;
+height: 1080px;
+left: 0px;
+top: 2160px;
+background: #F3FCFF;
+}
+.for h1
+{
+padding-top: 90px;
+left: 799px;
+text-align: center;
+font-family: PT Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 55px;
+line-height: 71px;
+
+color: #00456F;	
+}
+.col1
+{	
+	width: 48%;
+	height: 1000px;
+    float: left;
+	
+}
+.col1 p, .col2 p
+{
+font-family: PT Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 145.1%;
+/* or 36px */
+color: #2E2E2E;
+}
+.col2
+{		
+	width: 48%;
+	height: 1000px;
+    float: right;
+}
+
+#education
+{
+position: absolute;
+width: 100%;
+height: 1080px;
+left: 0px;
+top: 3240px;
+}
+#education h1
+{
+padding-top: 60px;
+left: 799px;
+text-align: center;
+font-family: PT Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 55px;
+line-height: 71px;
+
+color: #00456F;	
+}
+.col-1
+{
+	width: 48%;
+	height: 1000px;
+    float: left;
+}
+.col-2
+{
+	width: 48%;
+	height: 1000px;
+    float: right;
+}
+.col-1 p, .col-2 p 
+{
+font-family: PT Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 145.1%;
+/* or 36px */
+color: #2E2E2E;
+}
+.col-1 img, .col-2 img 
+{
+padding-left: 100px;
+}
+
+.exercise
+{
+position: absolute;
+width: 100%;
+height: 1080px;
+left: 0px;
+top: 4320px;
+
+
+background: #F3FCFF;
+}
+.exercise h1
+{
+padding-top: 60px;
+left: 799px;
+text-align: center;
+font-family: PT Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 55px;
+line-height: 71px;
+
+color: #00456F;		
+}
+.expect
+{
+position: absolute;
+width: 100%;
+height: 1080px;
+left: 0px;
+top: 5400px;
+
+}
+.expect h1
+{
+padding-top: 60px;
+left: 799px;
+text-align: center;
+font-family: PT Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 55px;
+line-height: 71px;
+
+color: #00456F;
+}
+.expect p
+{
+font-family: PT Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 145.1%;
+/* or 36px */
+color: #2E2E2E;
+}
+#about
+{
+position: absolute;
+width: 100%;
+height: 1080px;
+left: 0px;
+top: 6480px;
+
+background: #F3FCFF;
+}
+
+#about h1
+{
+padding-top: 60px;
+left: 799px;
+text-align: center;
+font-family: PT Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 55px;
+line-height: 71px;
+
+color: #00456F;
+}
+#contact
+{
+position: absolute;
+width: 100%;
+height: 1080px;
+left: 0px;
+top: 7560px;
+}
+#contact h1
+{
+padding-top: 60px;
+left: 45%;
+text-align: center;
+font-family: PT Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 55px;
+line-height: 71px;
+
+color: #00456F;
+}
+.col_form h2, .col_info h2
+{
+font-family: PT Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 145.1%;
+/* identical to box height, or 44px */
+
+color: #0D0058;
+}
+.col_form  
+{
+
+	width: 52%;
+	height: 1000px;
+    float: left;
+}
+
+.col_info 
+{
+	width: 48%;
+	height: 1000px;
+    float: right;
+}
+.col_info p
+{
+font-family: PT Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 31px;
+/* identical to box height */
+
+color: #00456F;
+}
+.col_info table
+{
+	padding-left: 25%;
+}
+.footer
+{
+position: absolute;
+width: 100%;
+height: 197px;
+left: 0px;
+top: 8683px;
+
+background: #F3FCFF;
+}
+.footer h1
+{
+
+font-family: PT Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 32px;
+
+color: #00456F;
+}
+.name
+{
+	width: 25%;
+	height: 54px;
+	padding-top: 30px;
+	padding-left: 30px;
+    float: left;
+}
+.name h2
+{
+font-family: PT Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+/* or 27px */
+color: #0D0058;
+}
+.name h1
+{
+font-family: PT Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 41px;
+/* or 59px */
+
+
+color: #FF6B00;
+}
+.foot-tabl
+{
+	width: 800px;
+	height: 54px;
+	padding-top: 30px;
+	padding-left: 200px;
+	padding-right: 200px;
+    float: left;
+}
+.foot-tabl a
+{
+text-decoration: none;
+font-family: PT Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 31px;
+/* identical to box height */
+
+color: #00456F;
+}
+.foot-soc
+{
+	width: 300px;
+	height: 54px;
+	padding-left: 1600px;
+    float: left;
+}
+#name, #tel
+{
+
+font-family: PT Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 31px;
+border-radius: 20px;
+width: 130%;
+height: 70px;
+padding: 1em 2em;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+background: #F3FCFF;
+border-radius: 20px;
+border: 0px;
+padding-top: 30px;
+left: 5%;
+}
+
+#inf
+{
+position: absolute;
+float: left;
+padding-left: 250px;
+padding-top: 30px;
+left: 5%;
+}
+#table
+{
+position: absolute;
+float: left;
+width: 20%;
+height: 100px;
+margin-left: 250px;
+top: 60%;
+left: 5%;
+text-align: left;
+background: #F3FCFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+font-family: PT Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+
+line-height: 0.5em;
+padding-left: 35px;
+padding-top: 25px;
+color: #00456F;
+}
+
+#table p
+{
+padding-left: 20px;
+font-family: PT Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 31px;
+color: #00456F;
+}
+#but-cont
+{
+	float: left;
+	position: absolute;
+	top: 75%;
+	left: 5%;
+}
+#but-cont button
+{
+width: 50%;
+height: 55px;
+margin-left: 250px;
+margin-top: 30px;
+
+background: #173AB6;
+border-radius: 20px;
+
+font-family: PT Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 31px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
